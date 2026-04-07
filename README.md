@@ -1,9 +1,10 @@
-<img width="950" height="430" alt="Screenshot 2026-04-07 121959" src="https://github.com/user-attachments/assets/299d3b27-22e4-460c-8656-a9560e36ec27" /># R3C0N-X — Automated Port Reconnaissance Framework
+# R3C0N-X — Automated Port Reconnaissance Framework
 
 > A Flask-based automated reconnaissance and port scanning tool with a hacker-themed terminal UI. Built as an internship project demonstrating tool integration, security workflows, and web application development.
 
 ---
 ## Workflow
+<img width="950" height="430" alt="Screenshot 2026-04-07 121959" src="https://github.com/user-attachments/assets/299d3b27-22e4-460c-8656-a9560e36ec27" />
 <img width="950" height="430" alt="Screenshot 2026-04-07 121959" src="https://github.com/user-attachments/assets/2284bce4-1c44-4dac-801d-16b6841b5740" />
 <img width="947" height="454" alt="Screenshot 2026-04-07 122133" src="https://github.com/user-attachments/assets/0a255604-ff18-4964-8400-730bf8e5f17e" />
 <img width="846" height="415" alt="Screenshot 2026-04-07 122629" src="https://github.com/user-attachments/assets/fec9a617-3886-4a6e-b3ad-0fc96435c1ba" />
